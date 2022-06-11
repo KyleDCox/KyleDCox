@@ -18,7 +18,7 @@
   - academic research and industry research
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I used to volunteer with injured and orphaned raptors, rehabilitating them for release  
-![Eliza, the White-tailed Kite: an education ambassador at the [California Raptor Center](https://crc.vetmed.ucdavis.edu/)](https://photos.app.goo.gl/MXpYxWu9NEbHNqCQ7)
+<!--![Eliza, the White-tailed Kite: an education ambassador at the [California Raptor Center](https://crc.vetmed.ucdavis.edu/)](https://photos.app.goo.gl/MXpYxWu9NEbHNqCQ7)-->
 
 
 <!--
