@@ -9,7 +9,6 @@
   - microbial by environment modeling
 - 📫 How to reach me:
   - kdcox@ucdavis.edu
-  - kyle.cox1@bayer.com
   - LinkedIn
 - 💬 Ask me about
   - biologics research and development
